@@ -23,6 +23,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+
 
 <!--
 **ccash12/ccash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
