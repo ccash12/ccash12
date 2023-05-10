@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about data structures and algorithms.\
 🌆 &nbsp; I just moved from New York to Seattle.\
 🥏 &nbsp;In my free time, I play ultimate frisbee and enjoy exploring the outdoors.\
-✉️ &nbsp;You can shoot me an email at cashcourtney97@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at cashcourtney97@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
