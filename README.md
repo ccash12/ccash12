@@ -1,3 +1,5 @@
+<img src="header.jpg" alt="NYC">
+
 ### About Me:
 I went to The Flatiron School for Software Engineering
 I have worked as an Associate Software Engineer at Infosys 
