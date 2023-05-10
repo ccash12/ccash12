@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me:
+I went to The Flatiron School for Software Engineering
+I have worked as an Associate Software Engineer at Infosys 
+I am interested in learning to grow my knowledge in software development
 
 <!--
 **ccash12/ccash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
