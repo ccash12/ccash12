@@ -26,7 +26,17 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/ccash12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ccash12&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ccash12&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <!--
 **ccash12/ccash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
